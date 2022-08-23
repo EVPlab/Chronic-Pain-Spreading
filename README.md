@@ -23,5 +23,5 @@ individuals to develop pain at multiple sites, with greater risk associated with
 of pain across body sites.
 
 # **Questions?**
-If you have any questions, please email [Christophe](christophe.tanguaysabourin@mcgill.ca) or [Matt](matthew.fillingim@mail.mcgill.ca)
+If you have any questions, please email [Christophe](mailto:christophe.tanguaysabourin@mcgill.ca) or [Matt](mailto:matthew.fillingim@mail.mcgill.ca)
 
