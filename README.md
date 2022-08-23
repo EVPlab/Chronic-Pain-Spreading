@@ -22,3 +22,6 @@ syndrome.
 individuals to develop pain at multiple sites, with greater risk associated with a wider spreading
 of pain across body sites.
 
+# **Questions?**
+If you have any questions, please email [Christophe](christophe.tanguaysabourin@mcgill.ca) or [Matt](matthew.fillingim@mail.mcgill.ca)
+
