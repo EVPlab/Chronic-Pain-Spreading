@@ -1,6 +1,6 @@
 # **Chronic-Pain-Spreading**
-### [A Data-Driven Biopsychosocial Framework Determining the Spreading of Chronic Pain](https://www.medrxiv.org/content/10.1101/2022.07.22.22277850v1)
-###### Christophe Tanguay-Sabourin, Matt Fillingim, Marc Parisien, Gianluca V Guglietti, Azin Zare, Jax Norman,<br/> Ronrick Da-ano, Jordi Perez, Scott J Thompson, Marc O Martel, Mathieu Roy, Luda Diatchenko, Etienne Vachon-Presseau
+### [A prognostic risk score for development and spread of chronic pain](https://www.medrxiv.org/content/10.1101/2022.07.22.22277850v1)
+###### Christophe Tanguay-Sabourin, Matt Fillingim, Gianluca V Guglietti, Azin Zare, Marc Parisien, Jax Norman, Hilary Sweatman, Ronrick Da-ano, Eveliina Heikkala, PREVENT-AD Research Group, Jordi Perez, Jaro Karppinen, Sylvia Villeneuve, Scott J Thompson, Marc O Martel, Mathieu Roy, Luda Diatchenko, Etienne Vachon-Presseau
 
 # **Background**
 This paper is a comprehensive effort to integrate features from different disciplines to better
