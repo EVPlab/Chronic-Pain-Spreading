@@ -8,7 +8,7 @@ understand, characterize, and predict chronic pain conditions.
 
 Study highlights:
 
-- We developed a psychosocial model using data from the UK Biobank (n=500k) capable of
+- We developed a psychosocial model using data from the UK Biobank (n= ~ 500k) capable of
 predicting and characterizing the longitudinal development of chronic pain in healthy individuals
 and its spreading or recovery in patients.
 - The psychosocial model was found to be more closely linked to
